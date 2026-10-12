@@ -10,8 +10,7 @@ This will redirect you to gmail to send a gmail that will begin the game......
 - One important thig to note is that you should have only 1 google acocunt logged in. It is a bug from google's side.........
 
 # Enjoy!!!!!!!!!!!!!
-I had a great time making this.... It was tbh kind of exciting.... and most of all i can now flex i made a damned dating sim inside gmail hahahahahahah!!!!!!!!!! (nvm the villain laugh) thanks to @cskartikey for this event!!! :)
-
+I had a great time making this.... It was tbh kind of exciting.... 
 
 
 
